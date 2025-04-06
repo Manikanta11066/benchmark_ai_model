@@ -29,5 +29,12 @@ A lightweight and efficient web-based tool to **benchmark AI models** across var
 - **PDF Reports:** ReportLab / FPDF
 - **Frontend:** *[Minimal - HTML Upload Form]*
 
+---
+## 🌐 Live Deployment
+
+You can try the deployed version of the tool here:
+
+👉 [AI Model Benchmarking Tool - Live Site](https://same-pihx02y75rn-latest.netlify.app/)
+
 
 
